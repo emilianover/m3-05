@@ -1,0 +1,19 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "name": "Cocacola",
+        "description": "Descripcion de una gaseosa"
+      },
+      {
+        "id": 2,
+        "name": "PASO DE LOS TOROS",
+        "description": "Descripcion de una gaseosa #2"
+      },
+      {
+        "id": 3,
+        "name": "ACUARIUS",
+        "description": "Descripcion de una gaseosa"
+      }
+    ]
+  }
